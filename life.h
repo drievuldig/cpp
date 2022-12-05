@@ -17,3 +17,4 @@ const int min_parents = 3;
 const int max_parents = 3;
 
 #endif // LIFE_H_
+
